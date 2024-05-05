@@ -1,0 +1,181 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+header {
+    background-color: rgb(0, 0, 0);
+    height: 80px;
+    width:100%;
+    position:relative;
+}
+h1 {
+    color: white;
+    position: absolute;
+    left: 60px;
+    top: 0;
+    line-height: 80px;
+    background-image: url(图片/logo\(1\).jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 210px;
+    text-indent: -9999px;
+}
+
+header ol {
+    position:absolute;
+    right:5vw;
+    top:0;
+    line-height: 80px;
+}
+header li {
+    display:inline;
+    margin-right: 4vw;
+}
+header a {
+    color: white;
+    text-decoration: none;
+}
+header a:hover{
+    text-decoration:underline;
+}
+.tip {
+    background-color:  #20201e;
+
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 120px 180px;
+    position: relative;
+    text-align: center;
+}
+.tip p{
+        font-size: 30px;
+        color: #d3bb35;
+        
+}
+.tip div {
+    display: flex;
+    line-height: 8em;
+    justify-content: center;
+    align-items: center;
+}
+.list1{
+    width: 300px;
+    height: 100px;
+    margin: 25px 10px;
+    text-decoration:none;
+    border-radius: 10px 20px 40px 30px;
+    border: 3px solid #d3bb35;
+    background-image: url(图片/武当图标.jpg);
+}
+.list{
+    width: 300px;
+    height: 100px;
+    margin: 25px 10px;
+    text-decoration:none;
+    border-radius: 10px 20px 40px 30px;
+    border: 3px solid #d3bb35;
+
+}
+.list1 a{
+    font-weight: bold;
+    text-decoration: none;
+    color: #171615;
+}
+.list2{
+    width: 300px;
+    height: 100px;
+    margin: 25px 10px;
+    text-decoration:none;
+    border-radius: 10px 20px 40px 30px;
+    border: 3px solid #d3bb35;
+    background-image: url(图片/洪门图标.jpg);
+}
+.list2 a{
+    font-weight: bold;
+    text-decoration: none;
+    color: #171615;
+}
+.list3{
+    width: 300px;
+    height: 100px;
+    margin: 25px 10px;
+    text-decoration:none;
+    border-radius: 10px 20px 40px 30px;
+    border: 3px solid #d3bb35;
+    background-image: url(图片/孔门图标.jpg);
+}
+.list3 a{
+    font-weight: bold;
+    text-decoration: none;
+    color: #171615;
+}
+.list4{
+    width: 300px;
+    height: 100px;
+    margin: 25px 10px;
+    text-decoration:none;
+    border-radius: 10px 20px 40px 30px;
+    border: 3px solid #d3bb35;
+    background-image: url(图片/鱼门图标.jpg);
+}
+.list4 a{
+    font-weight: bold;
+    text-decoration: none;
+    color: #171615;
+}
+.list5{
+    width: 300px;
+    height: 100px;
+    margin: 25px 10px;
+    text-decoration:none;
+    border-radius: 10px 20px 40px 30px;
+    border: 3px solid #d3bb35;
+    background-image: url(图片/岳家图标.jpg);
+}
+.list5 a{
+    font-weight: bold;
+    text-decoration: none;
+    color: #171615;
+}
+.list6{
+    width: 300px;
+    height: 100px;
+    margin: 25px 10px;
+    text-decoration:none;
+    border-radius: 10px 20px 40px 30px;
+    border: 3px solid #d3bb35;
+    background-image: url(图片/窄门图标.jpg);
+}
+.list6 a{
+    font-weight: bold;
+    text-decoration: none;
+    color: #171615;
+}
+.list7{
+    width: 300px;
+    height: 100px;
+    margin: 25px 10px;
+    text-decoration:none;
+    border-radius: 10px 20px 40px 30px;
+    border: 3px solid #d3bb35;
+    background-image: url(图片/熊门图标.jpg);
+}
+.list7 a{
+    font-weight: bold;
+    text-decoration: none;
+    color: #171615;
+}
+.list8{
+    width: 300px;
+    height: 100px;
+    margin: 25px 10px;
+    text-decoration:none;
+    border-radius: 10px 20px 40px 30px;
+    border: 3px solid #d3bb35;
+    background-image: url(图片/水浒图标.jpg);
+}
+.list8 a{
+    font-weight: bold;
+    text-decoration: none;
+    color: #171615;
+}

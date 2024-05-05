@@ -1,0 +1,85 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+header {
+    background-color: rgb(0, 0, 0);
+    height: 80px;
+    width:100%;
+    position:relative;
+}
+h1 {
+    color: white;
+    position: absolute;
+    left: 60px;
+    top: 0;
+    line-height: 80px;
+    background-image: url(图片/logo\(1\).jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 210px;
+    text-indent: -9999px;
+}
+
+header ol {
+    position:absolute;
+    right:5vw;
+    top:0;
+    line-height: 80px;
+}
+header li {
+    display:inline;
+    margin-right: 4vw;
+}
+header a {
+    color: white;
+    text-decoration: none;
+}
+header a:hover{
+    text-decoration:underline;
+}
+.news {
+    background-color: rgb(244, 243, 233);
+    border: solid rgb(194, 176, 56);
+    margin: 20px;
+    padding:20px;
+    display:flex;
+}
+.news h2 {
+    font-size: 60px;
+    margin: 20px;
+}
+.news p{
+    font-size: 20px;
+}
+.news img {
+    width:100%;
+    position:relative;
+
+}
+.info {
+    width:50%;
+    
+    flex-direction: column;
+    align-items: center;
+    margin-top: 85px;
+}
+.mean {
+    background-color: rgb(244, 243, 233);
+    border: solid rgb(194, 176, 56);;
+    margin: 20px;
+    padding:20px;
+}
+.last {
+    color: rgb(222, 222, 209);
+    background-color: rgb(0, 0, 0);
+}
+.mean p {
+    margin-bottom: 15px;
+    margin-top: 15px;
+    color: rgb(92, 85, 60);
+}
+.mean h3 {
+    color: rgb(100, 89, 71);
+    border-bottom: 6px dotted rgb(169, 155, 45);
+}

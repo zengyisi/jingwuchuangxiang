@@ -1,0 +1,79 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+header {
+    background-color: rgb(0, 0, 0);
+    height: 80px;
+    width:100%;
+    position:absolute;
+}
+h1 {
+    color: white;
+    position: absolute;
+    left: 60px;
+    top: 0;
+    line-height: 80px;
+    background-image: url(图片/logo\(1\).jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 210px;
+    text-indent: -9999px;
+}
+
+header ol {
+    position:absolute;
+    right:5vw;
+    top:0;
+    line-height: 80px;
+}
+header li {
+    display:inline;
+    margin-right: 4vw;
+}
+header a {
+    color: white;
+    text-decoration: none;
+}
+header a:hover{
+    text-decoration:underline;
+}
+.top{
+    background-color: #20201e;
+    height: 80px;
+}
+.tip {
+    background-color: #20201e;
+    position: relative;
+    padding: 120px 180px;
+    text-align: center;
+}
+.tip p{
+        font-size: 30px;
+        color: #d3bb35;
+        
+}
+.tip div {
+    display: flex;
+    line-height: 8em;
+    justify-content: center;
+    align-items: center;
+}
+.list{
+    width: 200px;
+    height: 200px;
+    margin: 25px 10px;
+    text-decoration:none;
+    border-radius: 10px 20px 40px 30px;
+    border: 3px solid #d3bb35;
+    background-color: #ebe8c8;
+}
+
+.list a{
+    text-decoration: none;
+    color: #000;
+}
+.img{
+    width: 601px;
+    height: 338px;
+}
