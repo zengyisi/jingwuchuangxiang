@@ -66,6 +66,7 @@ header a:hover{
     border-radius: 10px 20px 40px 30px;
     border: 3px solid #d3bb35;
     background-image: url(图片/武当图标.jpg);
+    background-color:#fef7e6；
 }
 .list{
     width: 300px;
@@ -89,6 +90,7 @@ header a:hover{
     border-radius: 10px 20px 40px 30px;
     border: 3px solid #d3bb35;
     background-image: url(图片/洪门图标.jpg);
+    background-color:#fef7e6；
 }
 .list2 a{
     font-weight: bold;
@@ -103,6 +105,7 @@ header a:hover{
     border-radius: 10px 20px 40px 30px;
     border: 3px solid #d3bb35;
     background-image: url(图片/孔门图标.jpg);
+    background-color:#fef7e6；
 }
 .list3 a{
     font-weight: bold;
@@ -117,6 +120,7 @@ header a:hover{
     border-radius: 10px 20px 40px 30px;
     border: 3px solid #d3bb35;
     background-image: url(图片/鱼门图标.jpg);
+    background-color:#fef7e6；
 }
 .list4 a{
     font-weight: bold;
@@ -131,6 +135,7 @@ header a:hover{
     border-radius: 10px 20px 40px 30px;
     border: 3px solid #d3bb35;
     background-image: url(图片/岳家图标.jpg);
+    background-color:#fef7e6；
 }
 .list5 a{
     font-weight: bold;
@@ -145,6 +150,7 @@ header a:hover{
     border-radius: 10px 20px 40px 30px;
     border: 3px solid #d3bb35;
     background-image: url(图片/窄门图标.jpg);
+    background-color:#fef7e6；
 }
 .list6 a{
     font-weight: bold;
@@ -159,6 +165,7 @@ header a:hover{
     border-radius: 10px 20px 40px 30px;
     border: 3px solid #d3bb35;
     background-image: url(图片/熊门图标.jpg);
+    background-color:#fef7e6；
 }
 .list7 a{
     font-weight: bold;
@@ -173,6 +180,7 @@ header a:hover{
     border-radius: 10px 20px 40px 30px;
     border: 3px solid #d3bb35;
     background-image: url(图片/水浒图标.jpg);
+    background-color:#fef7e6；
 }
 .list8 a{
     font-weight: bold;
